@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "D1D72B67-4D65-4407-9DF3-708C1929CB2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 15,
+    "x": 122.7999877929688,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F835667C-FCF4-4E24-8168-6908337B81F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "914E7B36-10FF-4A10-B967-4816A75EE963"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1F1EF59-CF2F-4633-AF54-2B0AD33B3E38"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A64427AB-75C8-4CFB-A97D-2728126D816E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "141CA367-9FC8-4FDF-8A05-D157C27D855F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26BB127A-9722-41D8-8CEE-2034B2277E67"
+    }
+  ],
+  "name": "YouTube_Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

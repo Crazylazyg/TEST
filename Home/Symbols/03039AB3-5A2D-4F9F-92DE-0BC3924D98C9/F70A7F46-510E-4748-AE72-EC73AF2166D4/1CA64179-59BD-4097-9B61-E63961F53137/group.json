@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "1CA64179-59BD-4097-9B61-E63961F53137",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 15,
+    "width": 21,
+    "x": 121,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1446C00A-E2B4-4517-8870-A5E4291CC313"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75A72518-4A0B-4AED-9C7C-2B564BB49BB7"
+    }
+  ],
+  "name": "YouTube",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

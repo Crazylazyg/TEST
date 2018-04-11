@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "6BBF7ABC-DC6F-4403-9BA0-D44D5850E3F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BEB7EE75-4A22-4CCB-9CC8-6C26030657F7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C5DC90B-17E1-4473-9B79-09D8B63EAF64",
+    "height": 600,
+    "width": 1602,
+    "x": -1,
+    "y": 660
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F221CEA7-55B3-4297-AF0A-8E5637382758"
+    },
+    {
+      "class": "bitmap",
+      "id": "8367B548-5C97-460C-A4EC-2D854BAF5C21"
+    },
+    {
+      "class": "bitmap",
+      "id": "9F5C5E26-C48E-483C-ACF4-D8EDD9C54FB1"
+    },
+    {
+      "class": "bitmap",
+      "id": "778CBCC3-BDF0-4982-B855-EA5E2CDF26EB"
+    },
+    {
+      "class": "group",
+      "id": "CA20F39B-0ADB-4998-9FA4-330A7238C07F"
+    }
+  ],
+  "name": "horn_4G",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "606E1D32-1986-4546-AE53-9F3DA0383C52",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
